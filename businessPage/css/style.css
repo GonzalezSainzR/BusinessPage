@@ -1,0 +1,63 @@
+/*
+Genral
+*/
+
+body {
+    margin: 0;
+}
+
+.primary-content {
+    text-align: center;
+}
+
+.secondary-content {
+    border-top: 2px solid lightgrey;
+}
+
+#main-footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-bottom: solid 10px orange;
+}
+
+p {
+    font-size: 20px
+}
+
+
+/*
+Headline Elements
+*/
+
+h1 {
+    font-size: 72px;
+}
+
+h2 {
+    font-size: 53px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+
+/*
+Colors
+*/
+
+body {
+    color: #878787;
+}
+
+.main-header {
+    background-color: orange;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: #4852c;
+}
