@@ -15,12 +15,11 @@ body {
     line-height: 1.5;
 }
 #directions{
+    color: grey;
     font-size: 2em;
-    text-decoration-color: gray;
-    color: lightgray;
     letter-spacing: .065em;
     font-weight: 200;
-    border-bottom: 2px solid;
+    border-bottom: 2px solid lightgray;
     padding-bottom: 10px;
 }
 
